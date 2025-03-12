@@ -1,10 +1,6 @@
 # MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation
 
-## 🏠 <a href="https://huanngzh.github.io/MIDI-Page/" target="_blank">Project Page</a> | <a href="https://arxiv.org/abs/2412.03558" target="_blank">Paper</a>
-
-![teaser](assets/doc/teaser.png)
-
-MIDI is a **novel paradigm** for compositional 3D scene generation from a single image. MIDI extends pre-trained image-to-3D object generation models to **multi-instance diffusion models**, enabling the simultaneous generation of multiple 3D instances with accurate spatial relationships and high generalizability.
+### We have released implementation in [VAST-AI-Research/MIDI-3D](https://github.com/VAST-AI-Research/MIDI-3D). We will delete this repository in seven days.
 
 ## Citation
 
